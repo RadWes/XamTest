@@ -1,0 +1,1 @@
+C:\Development\XamControlTestApp\XamControlTestApp\XamControlTestApp.UWP\XamControlTestApp.UWP.csproj;x86

@@ -556,11 +556,10 @@
   },
   "libraries": {
     "Xamarin.Forms/3.4.0.1008975": {
-      "sha512": "tM9syeev45u92OFENGjq+Zw8WiEwLJFiXe317XpL9SY2RRk9sm2fc1lDVjzwz0da+5ZP5fi24NAPsPQdxBdMwQ==",
+      "sha512": "036/h8HtzRFgTrfhY57IeHoYRsPTO2XTA6uUFdmZzw2QR1sdszfofhI9HrCJTRx6fCzmjPg5Cxk5chYrjKarNw==",
       "type": "package",
       "path": "xamarin.forms/3.4.0.1008975",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "build/Xamarin.Forms.DefaultItems.props",
         "build/Xamarin.Forms.DefaultItems.targets",
@@ -714,34 +713,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WesMarco\\.nuget\\packages\\": {}
+    "/Users/WesleyMarco/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\XamTest\\XamControlTestApp\\XamControlTestApp.iOS\\XamControlTestApp.iOS.csproj",
+      "projectUniqueName": "/Users/WesleyMarco/Source/RadWes/XamTest/XamControlTestApp/XamControlTestApp.iOS/XamControlTestApp.iOS.csproj",
       "projectName": "XamControlTestApp.iOS",
-      "projectPath": "C:\\Development\\XamTest\\XamControlTestApp\\XamControlTestApp.iOS\\XamControlTestApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\WesMarco\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\XamTest\\XamControlTestApp\\XamControlTestApp.iOS\\obj\\",
+      "projectPath": "/Users/WesleyMarco/Source/RadWes/XamTest/XamControlTestApp/XamControlTestApp.iOS/XamControlTestApp.iOS.csproj",
+      "packagesPath": "/Users/WesleyMarco/.nuget/packages/",
+      "outputPath": "/Users/WesleyMarco/Source/RadWes/XamTest/XamControlTestApp/XamControlTestApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\WesMarco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/WesleyMarco/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Development\\XamTest\\XamControlTestApp\\XamControlTestApp\\XamControlTestApp.csproj": {
-              "projectPath": "C:\\Development\\XamTest\\XamControlTestApp\\XamControlTestApp\\XamControlTestApp.csproj"
+            "/Users/WesleyMarco/Source/RadWes/XamTest/XamControlTestApp/XamControlTestApp/XamControlTestApp.csproj": {
+              "projectPath": "/Users/WesleyMarco/Source/RadWes/XamTest/XamControlTestApp/XamControlTestApp/XamControlTestApp.csproj"
             }
           }
         }
